@@ -1,4 +1,4 @@
-    # Inventory list to store product records 
+# Inventory list to store product records 
 inventory = [] 
 MAX_PRODUCTS = 100  # Maximum number of products allowed in inventory
 # Function to insert a new product 
